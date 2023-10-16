@@ -1,0 +1,52 @@
+Auto-Transcript Start Time:  22:59:26, 16 Oct 2023 SE Asia Standard Time 
+Current Directory: "C:\Users\hieup\Documents\my-repo-gihub\ansys-pyfluent-tutorial"
+Information: The server has started and is running.
+
+              Welcome to ANSYS Fluent 2023 R2
+
+              Copyright 1987-2023 ANSYS, Inc. All Rights Reserved.
+              Unauthorized use, distribution or duplication is prohibited.
+              This product is subject to U.S. laws governing export and re-export.
+              For full Legal Notice, see documentation.
+
+Build Time: May 29 2023 07:52:07 EDT  Build Id: 10212  
+ 
+Connected License Server List:	
+
+*********************************************
+Info: Your license enables 4-way parallel execution.
+For faster simulations, please start the application with the appropriate parallel options.
+*********************************************
+
+
+     --------------------------------------------------------------
+     This is a student version of ANSYS FLUENT. Usage of this product
+     license is limited to the terms and conditions specified in your ANSYS
+     license form, additional terms section.
+     --------------------------------------------------------------
+Host spawning Node 0 on machine "AlexPham" (win64).
+
+------------------------------------------------------------------------------------------
+ID    Hostname  Core  O.S.         PID    Vendor                                          
+------------------------------------------------------------------------------------------
+n0    AlexPham  1/8  Windows-x64  13512  11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz  
+host  AlexPham       Windows-x64  30644  11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz  
+
+MPI Option Selected: intel
+------------------------------------------------------------------------------------------
+
+Cleanup script file is C:\\Users\\hieup\\Documents\\my-repo-gihub\\ansys-pyfluent-tutorial\\cleanup-fluent-AlexPham-30644.bat
+
+Posting ANSYS Product Improvement Program startup data
+Done.
+
+> 
+Posting ANSYS Product Improvement Program performance data 
+Done.
+Shutting down Server...
+Services Shutdown...Done.
+Server Shutdown...Done.
+Queue Cleared...Done.
+Shutdown Complete.
+Auto-Transcript Stop Time:  22:59:37, 16 Oct 2023 SE Asia Standard Time 
+Total Transcript Time: 0 Minute 11 Second.

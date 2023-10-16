@@ -5,3 +5,4 @@ try:
 except Exception:
     pass
 
+workflow.InitializeWorkflow(WorkflowType=r'Watertight Geometry')
